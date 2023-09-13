@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "customID": 1,
+      "userID": 1111,
+      "userPassword": 1111
+    },
+    {
+      "id": 2,
+      "customID": 2,
+      "userID": 2222,
+      "userPassword": 2222
+    },
+    {
+      "customID": 3,
+      "userID": 12,
+      "userPassword": 12,
+      "id": 3
+    },
+    {
+      "customID": 3,
+      "userID": 3333,
+      "userPassword": 3333,
+      "id": 4
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "React 공부하기",
+      "content": "주특기주차, React-router-dom 공부하기 수정"
+    },
+    {
+      "id": 2,
+      "title": "TypeScript 공부하기",
+      "content": "미경님이랑 스터디"
+    }
+  ]
+}
